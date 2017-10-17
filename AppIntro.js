@@ -62,7 +62,7 @@ const defaulStyles = {
     borderRadius: 7,
     marginLeft: 7,
     marginRight: 7,
-    marginTop: 7,
+    marginTop: 24,
     marginBottom: 0,
   },
   activeDotStyle: {
