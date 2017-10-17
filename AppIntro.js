@@ -63,7 +63,7 @@ const defaulStyles = {
     marginLeft: 7,
     marginRight: 7,
     marginTop: 7,
-    marginBottom: 7,
+    marginBottom: 0,
   },
   activeDotStyle: {
     backgroundColor: '#fff',
